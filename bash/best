@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Tekouin"
+echo "Tekouin is so cool!"
